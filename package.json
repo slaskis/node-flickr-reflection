@@ -5,6 +5,6 @@
   "keywords"      : ["flickr", "api", "photos"],
   "author"        : "Timo Derstappen <teemow@gmail.com>",
   "main"          : "./lib/flickr",
-  "version"       : "0.0.1"
+  "version"       : "0.0.2"
 }
 
